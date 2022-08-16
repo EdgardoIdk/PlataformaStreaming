@@ -9,5 +9,10 @@ package plataformastreaming;
  * @author edgar
  */
 public class Usuarios {
+    String nombre="Edgardo";
+    String contraseña="contra1";
+    
+   
+    
     
 }

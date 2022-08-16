@@ -14,7 +14,9 @@ public class PlataformaStreaming {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //Nombre de usuario es Edgardo y la contraseña es contra
+        LOG log = new LOG();
+        log.IniciarSesion();
     }
     
 }
